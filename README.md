@@ -87,5 +87,5 @@ c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pad
 d. Ulangi instruksi pada history bufer nomor 150
 <img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/0c3d887c-e6bf-4a24-9788-010aa5918c42" />
 
-e. Ulangi instruksi pada history bufer nomor 150e. Ulangi instruksi dengan prefix “ls”
+e. Ulangi instruksi dengan prefix “ls”
 <img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/0c3d887c-e6bf-4a24-9788-010aa5918c42" />
