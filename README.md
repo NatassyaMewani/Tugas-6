@@ -4,7 +4,7 @@
 # NIM : 09011382530161
 # Kelas : SKU3A
 
-1. Eksekusi seluruh profile yang ada : 
+1. Eksekusi seluruh profile yang ada : <br>
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/496619a3-aadc-4f9e-8f8a-87a8f4a50ecb" />
 
